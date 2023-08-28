@@ -5,6 +5,17 @@ This website holds the documentation for the bobcamera project.
 All bobcamera members are invited to take ownership and add whatever they see fit!
 
 
+## How to use
+
+1. Make a new markdown file
+2. Add it to `_sidebar.md`
+3. Wait 1-10 mins for the changes to be deployed to <https://bobcamera.github.io>
+4. ???
+5. Profit!
+
+contact me (@katlol) if something does not work
+
+
 Original readme follows for a guide on how to edit this site, etc.
 
 ```
