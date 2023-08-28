@@ -1,3 +1,13 @@
+# bobcamera
+
+This website holds the documentation for the bobcamera project.
+
+All bobcamera members are invited to take ownership and add whatever they see fit!
+
+
+Original readme follows for a guide on how to edit this site, etc.
+
+```
 # Docsify Template
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
@@ -29,3 +39,4 @@ Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users)
 ## Docsify Documentation
 
 To learn more about using Docsify, visit https://docsify.js.org.
+```
