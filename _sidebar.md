@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [Installation](installation_guide)
+- [Installation](installation_guide.md)
